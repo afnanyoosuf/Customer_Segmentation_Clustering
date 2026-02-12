@@ -125,11 +125,7 @@ DBSCAN
 
 Compared algorithms based on:
 
-Strengths
-
-Weaknesses
-
-When to use
+Strengths,Weaknesses,When to use
 
 Explained why different algorithms produce different clustering results.
 
